@@ -28,6 +28,10 @@ You can expect to find the following types of content on my profile:
 - 📔 **Guides and Tips:** Step-by-step guides and helpful tips to improve your coding skills.
 
 
+## 🌱 Contributing
+
+I'm a firm believer in the power of open-source and community collaboration. If you'd like to contribute to my projects or have suggestions for new content, feel free to [open an issue](https://github.com/elise-lcdb/elisecodes/issues).
+
 
 ## 📫 Let's Connect
 

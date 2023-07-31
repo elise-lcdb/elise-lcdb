@@ -4,7 +4,7 @@ Welcome to my corner of the web! Here you'll find tips, tricks, and tutorials on
 
 ## 🚀 About Me
 
-- 💻 Aspiring web developer.
+- 💻 Web developer.
 - 🎥 Content creator and YouTuber.
 - 📚 Lifelong learner, always looking to improve my skills.
 - 🌐 Based in France.
